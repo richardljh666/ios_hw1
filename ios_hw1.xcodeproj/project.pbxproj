@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7985D99B28EBA33B00E59D53 /* HannariMincho-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7985D99A28EBA33B00E59D53 /* HannariMincho-Regular.otf */; };
 		79D9281228E42DA800D9E13A /* ios_hw1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D9281128E42DA800D9E13A /* ios_hw1App.swift */; };
 		79D9281428E42DA800D9E13A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D9281328E42DA800D9E13A /* ContentView.swift */; };
 		79D9281628E42DAF00D9E13A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79D9281528E42DAF00D9E13A /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7985D99A28EBA33B00E59D53 /* HannariMincho-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "HannariMincho-Regular.otf"; sourceTree = "<group>"; };
 		79D9280E28E42DA800D9E13A /* ios_hw1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ios_hw1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79D9281128E42DA800D9E13A /* ios_hw1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_hw1App.swift; sourceTree = "<group>"; };
 		79D9281328E42DA800D9E13A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +38,7 @@
 		79D9280528E42DA800D9E13A = {
 			isa = PBXGroup;
 			children = (
+				7985D99A28EBA33B00E59D53 /* HannariMincho-Regular.otf */,
 				79D9281028E42DA800D9E13A /* ios_hw1 */,
 				79D9280F28E42DA800D9E13A /* Products */,
 			);
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7985D99B28EBA33B00E59D53 /* HannariMincho-Regular.otf in Resources */,
 				79D9281928E42DAF00D9E13A /* Preview Assets.xcassets in Resources */,
 				79D9281628E42DAF00D9E13A /* Assets.xcassets in Resources */,
 			);
